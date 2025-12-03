@@ -50,7 +50,7 @@ def menu():
     print("4) Exit\n")
 
 # ----------------------------------------------------------
-# Mode 1: Single Demo Vote
+# Mode 1: Single Vote Demo
 # ----------------------------------------------------------
 # This demonstrates:
 #   • Generating Paillier keys
